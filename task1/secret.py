@@ -1,0 +1,5 @@
+dbName='hw3'
+dbUser='postgres'
+dbPassword='_DELETED_'
+dbHost='_DELETED_'
+dbPort='65432'
